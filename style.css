@@ -1,5 +1,5 @@
 body {
-	font-family: 'Lexend Deca', 'inter', sans-serif;
+	font-family: 'inter', 'Lexend Deca', sans-serif;
 	font-size: 15px;
 	background: hsl(233, 47%, 7%);
 	color: hsl(0, 0%, 100%);
@@ -26,7 +26,7 @@ span {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	font-family: 'inter';
+	font-family: 'inter', sans-serif;
 	background: hsl(244, 38%, 16%);
 	border-radius: 0.5rem 0 0 0.5rem;
 	width: 520px;
@@ -92,7 +92,7 @@ span {
 }
 
 .statistics-content p {
-	font-family: 'Lexend Deca';
+	font-family: 'Lexend Deca', serif;
 }
 
 .statistics {
