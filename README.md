@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://thaiscode.github.io)
+- Solution URL: (https://thaiscode.github.io/Stats-preview-card-component-solution/)
 - Live Site URL: (https://www.frontendmentor.io/solutions/stats-preview-card-using-html-and-css-CEobv2c7y)
 
 ## My process
